@@ -8,7 +8,6 @@
     font-family: Roboto;
     src: url(../assets/fonts/Roboto-Regular.ttf);
 }
-
 @font-face {
     font-family: Montserrat;
     src: url(../assets/fonts/Montserrat-Medium.otf);
@@ -19,4 +18,7 @@
 }
 body{
     font-family: "Montserrat";
+    background: #646E78;/*color temporal, me quema los ojos el color blanco*/
+    /* background: #D7D9D7; */
 }
+
